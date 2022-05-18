@@ -32,10 +32,10 @@
      <a href="https://www.hackerrank.com/uzrivojcoder">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/clevercoderr">
+    <a href="https://leetcode.com/uzrivojcoder/">
         <img alt="Leetcode"
              src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-    <a href="https://discord.gg/clevercoderr">
+    <a href="https://www.instagram.com/zohidbek_mengliboyev/">
         <img alt="Instagram"
              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100070109226282">
