@@ -1,6 +1,6 @@
 ![counter](https://en7ebf2hjrsnb2t.m.pipedream.net)
 <!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=ZOHIDBEK%20MENGLIBOYEV%20&desc=Full%20Stack%20Engineer🙂&animation=fadeIn&fontSize=20&fontAlign=75&fontAlignY=38&descAlign=85&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=%20ZOHIDBEK%20MENGLIBOYEV%20&desc=Full%20Stack%20Engineer🙂&animation=fadeIn&fontSize=20&fontAlign=75&fontAlignY=38&descAlign=85&color=d0b0ff)
 
 
 <h3 align="center">
