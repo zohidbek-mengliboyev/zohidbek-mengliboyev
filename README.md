@@ -20,7 +20,7 @@
 
 <!-- Badges template - https://github.com/zohidbek-mengliboyev -->
 <p align="center">
-    <a href="https://github.com/zohidbek-mengliboyev">
+    <a href="https://t.me/zohidbek_mengliboyev">
         <img alt="Telegram"
              src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/zohidbek-mengliboyev/">
