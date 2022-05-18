@@ -18,18 +18,18 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/clevercoderr -->
+<!-- Badges template - https://github.com/zohidbek-mengliboyev -->
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/zohidbek-mengliboyev">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
+    <a href="https://www.linkedin.com/in/zohidbek-mengliboyev/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-     <a href="https://www.hackerrank.com/clevercoderr">
+     <a href="https://www.hackerrank.com/uzrivojcoder">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://www.kaggle.com/clevercoderr">
@@ -38,7 +38,7 @@
     <a href="https://discord.gg/clevercoderr">
         <img alt="Discord"
              src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/clevercoderr">
+    <a href="https://www.facebook.com/profile.php?id=100070109226282">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100068970307814">
