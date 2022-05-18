@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/zohidbek-mengliboyev/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/17122298/clever-coder">
+    <a href="https://stackoverflow.com/users/19146851/zohidbek-mengliboyev">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
      <a href="https://www.hackerrank.com/uzrivojcoder">
