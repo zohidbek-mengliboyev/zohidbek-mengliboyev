@@ -41,6 +41,9 @@
     <a href="https://www.facebook.com/profile.php?id=100070109226282">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/profile.php?id=100070109226282">
+        <img alt="Skype"
+             src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"></a>
     <a href="https://twitter.com/uzrivojcoder">
         <img alt="Twitter"
              src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -65,7 +68,7 @@
 
 ## 🛠 My favorite tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages and Others
 <p>
     <a href="#">
         <img alt="C#"
@@ -74,18 +77,27 @@
         <img alt="Go"
              src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
     <a href="#">
+        <img alt="SQL"
+             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#">
         <img alt="Javascript"
              src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
     <a href="#">
         <img alt="Typescript"
              src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+        <img alt="HTML5"
+             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#">
+        <img alt="CSS3"
+             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#">
+        <img alt="HTML5"
+             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks and Libraries
 
 <p>
     <a href="#">
@@ -106,6 +118,9 @@
     <a href="#">
         <img alt="Angular"
              src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+    <a href="#">
+        <img alt="RxJS"
+             src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"/></a>
 </p>
 
 ### 🗄 Databases
@@ -122,7 +137,7 @@
              src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
 </p>
 
-### ☁️ Cloud hosting
+### ☁️ Cloud Hosting
 <p>
     <a href="#">
         <img alt="Heroku"
@@ -146,7 +161,7 @@
     <a href="#"><img alt="" src=""></a>
 </p>
 
-### 💻 Software and tools
+### 💻 Software and Tools
 <p>
     <a href="#">
         <img alt="Docker"
@@ -163,10 +178,9 @@
     <a href="#">
         <img alt="Postman"
              src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
+    <a href="#">
+        <img alt="Trello"
+             src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
 </p>
 
 ### 💻 My favorite operating systems
