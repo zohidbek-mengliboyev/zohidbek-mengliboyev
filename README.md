@@ -49,7 +49,7 @@
              src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>      
 </p>
 
-## 📊 Github stats
+## 📊 Github Stats
 <p>
   <a align="center" href="https://github-readme-stats.vercel.app/api?username=zohidbek-mengliboyev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="uzrivojcoder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zohidbek-mengliboyev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
     
@@ -190,17 +190,17 @@
 </p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-### Snake game
+### Snake Game
     
-## 🔥 Streak stats
+## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/clevercoderr/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/zohidbek-mengliboyev/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="CleverCoderr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=clevercoderr&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="uzrivojcoder's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zohidbek-mengliboyev&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
-## 💻 Last month's activity
-<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-<a href=""><img alt="clevercoderr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=clevercoderr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+## 💻 Last Month's Activity
+<!-- https://github.com/zohidbek-mengliboyev/github-readme-activity-graph -->
+<a href=""><img alt="uzrivojcoder's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zohidbek-mengliboyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
