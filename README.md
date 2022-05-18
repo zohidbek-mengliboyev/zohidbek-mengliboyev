@@ -63,7 +63,7 @@
   </a>
 </p>
 
-## 🛠 My favorite tools
+## 🛠 My favorite Tools:
 
 ### 👨‍💻 Programming Languages and Others
 <p>
