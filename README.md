@@ -59,7 +59,7 @@
 
 <p>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=clevercoderr&theme=monokai&column=8&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=zohidbek-mengliboyev&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
 
