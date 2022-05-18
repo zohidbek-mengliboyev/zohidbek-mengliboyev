@@ -51,7 +51,7 @@
 
 ## 📊 Github stats
 <p>
-    [![uzrivojcoder's github stats](https://github-readme-stats.vercel.app/api?username=zohidbek-mengliboyev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+    ![uzrivojcoder's github stats](https://github-readme-stats.vercel.app/api?username=zohidbek-mengliboyev&theme=blue-green)
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=clevercoderr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="clevercoderr's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=clevercoderr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
