@@ -99,7 +99,7 @@
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
         <img alt="Entity%20Framework%20Core"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Framework&logoColor=green"></a>
     <a href="#">
         <img alt="Bootstrap"
              src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
@@ -128,18 +128,15 @@
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
     <a href="#">
-        <img alt="Azure"
-             src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+        <img alt="Microsoft Azure"
+             src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
     </a>
-    <a href="#">
-        <img alt="Repl.it"
-             src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/></a>
     <a href="#">
         <img alt="Digital Ocean"
              src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
     <a href="#">
         <img alt="AWS"
-             src="https://img.shields.io/badge/AWS-0080FF?style=for-the-badge&logo=AWS&logoColor=white"></a>
+             src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
     <a href="#">
         <img alt="Google Cloud"
              src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
@@ -158,17 +155,11 @@
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#">
-        <img alt="Jupyter"
-             src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+        <img alt="Visual Studio Code"
+             src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
     <a href="#">
-        <img alt="Conda"
-             src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
-    <a href="#">
-        <img alt="PyCharm"
-             src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-    <a href="#">
-        <img alt="Vsual Studio"
-             src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
+        <img alt="Visual Studio"
+             src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
     <a href="#">
         <img alt="Postman"
              src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
