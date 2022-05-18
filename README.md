@@ -41,7 +41,11 @@
     <a href="https://www.facebook.com/profile.php?id=100070109226282">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100068970307814">
+    <a href="https://twitter.com/uzrivojcoder">
+        <img alt="Twitter"
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    
+        
 </p>
 
 
