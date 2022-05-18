@@ -74,8 +74,11 @@
         <img alt="Go"
              src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
     <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <img alt="Javascript"
+             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+    <a href="#">
+        <img alt="Typescript"
+             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="#">
         <img alt="SQL"
              src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
