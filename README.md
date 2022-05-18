@@ -131,7 +131,7 @@
              src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
 </p>
 
-### ☁️ Cloud Hosting
+### ☁️ Cloud Hostings
 <p>
     <a href="#">
         <img alt="Heroku"
@@ -177,7 +177,7 @@
              src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
 </p>
 
-### 🖥 My favorite operating systems
+### 🖥 Operating Systems
 <p>
     <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
