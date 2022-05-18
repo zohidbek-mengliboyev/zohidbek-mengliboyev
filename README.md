@@ -33,8 +33,8 @@
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://www.kaggle.com/clevercoderr">
-        <img alt="Kaggle"
-             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+        <img alt="Leetcode"
+             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
     <a href="https://discord.gg/clevercoderr">
         <img alt="Discord"
              src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
