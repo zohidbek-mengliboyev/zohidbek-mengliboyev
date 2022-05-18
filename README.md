@@ -63,7 +63,7 @@
   </a>
 </p>
 
-## 🛠 My favorite Tools:
+## 💻 My favorite Tools:
 
 ### 👨‍💻 Programming Languages and Others
 <p>
@@ -155,7 +155,7 @@
     <a href="#"><img alt="" src=""></a>
 </p>
 
-### 💻 Software and Tools
+### ⚙️ Software and Tools
 <p>
     <a href="#">
         <img alt="Docker"
@@ -177,7 +177,7 @@
              src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
 </p>
 
-### 💻 My favorite operating systems
+### 🖥 My favorite operating systems
 <p>
     <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -201,6 +201,6 @@
   </a>
 </p>
 
-## 💻 Last Month's Activity
+## 📈 Last Month's Activity
 <!-- https://github.com/zohidbek-mengliboyev/github-readme-activity-graph -->
 <a href=""><img alt="uzrivojcoder's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zohidbek-mengliboyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
