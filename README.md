@@ -1,4 +1,4 @@
-![counter](https://en7ebf2hjrsnb2t.m.pipedream.net) 👀
+👀 ![counter](https://en7ebf2hjrsnb2t.m.pipedream.net) 
 <!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Mengliboyev%20Zohidbek%20Abduqodir%20o'g'li&desc=Full%20Stack%20.NET%20Developer%20&animation=fadeIn&fontSize=20&fontAlign=75&fontAlignY=38&descAlign=85&color=d0b0ff)
 
