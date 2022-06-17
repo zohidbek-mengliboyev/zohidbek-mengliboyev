@@ -16,7 +16,7 @@
 </p>
 
 
-## 🙋‍♂️ Connect with me
+## 📲 Connect with me
 
 <!-- Badges template - https://github.com/zohidbek-mengliboyev -->
 <p align="center">
