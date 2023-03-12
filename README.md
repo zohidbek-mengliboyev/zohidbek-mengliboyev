@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://github.com/CleverCoder/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20.Net%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20.Net%20Developer;More%20than%202%20years%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
